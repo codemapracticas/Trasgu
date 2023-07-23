@@ -6,4 +6,4 @@ Dicho vehículo deberá competir en un circuito construído para tal fin, realiz
 
 El vehículo se ha desarrollado a partir del printbot Renacuajo de BQ. Dicho vehículo consta de 2 ruedas, se ha modificado su chasis y soportes para transformarlo en un coche de 4 ruedas accionado con 4 servomotores controlados por una placa Arduino.
 
-Para el diseño 3D se ha utilizado Tinkercad, mientras que el programa de control de la placa arduino se ha desarrollado con el IDE Arduino y la aplicación de control remoto se ha desarrollado en Appinventor. La comuniación entre los dispostivos se realiza por Bluetooth.
+Para el diseño 3D se ha utilizado Tinkercad, mientras que el programa de control de la placa arduino se ha desarrollado con el IDE Arduino y la aplicación de control remoto se ha desarrollado en Appinventor. La comunicación entre los dispostivos se realiza por Bluetooth.
